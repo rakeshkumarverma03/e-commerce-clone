@@ -5,6 +5,7 @@
 }
 #wraper{
     overflow: hidden;
+    background-color:'red';
 }
 .navigation{
     display: flex;
